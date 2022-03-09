@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_side_menu_home"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"/>
+
+    <item android:id="@+id/nav_side_menu_nearby"
+        android:title="Near By"
+        android:icon="@drawable/ic_baseline_near_me_24"/>
+    <item android:id="@+id/nav_side_menu_profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_baseline_supervised_user_circle_24"/>
+    <item android:id="@+id/side_sub_menu" android:title="Others">
+        <menu>
+            <item android:id="@+id/nav_side_menu_settings"
+                android:title="Settings"
+                android:icon="@drawable/ic_baseline_settings_24"/>
+            <item android:id="@+id/nav_side_menu_logout"
+                android:title="Logout"
+                android:icon="@drawable/ic_baseline_power_settings_new_24"/>
+        </menu>
+    </item>
+
+    <item xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:actionLayout="@layout/night_mode_layout"
+        android:icon="@drawable/ic_baseline_brightness_4_24"
+        android:title="Night Mode"
+        />
+
+</menu>

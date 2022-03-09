@@ -4,12 +4,21 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Sai Ji/AndroidStudioProjects/CovidPersonalTracker/app/src/main/res/drawable/ic_activity_main_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Sai Ji/AndroidStudioProjects/CovidPersonalTracker/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/Sai Ji/AndroidStudioProjects/CovidPersonalTracker/app/src/main/res/drawable/ic_button_styling.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/Sai Ji/AndroidStudioProjects/CovidPersonalTracker/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/Sai Ji/AndroidStudioProjects/CovidPersonalTracker/app/src/main/res/drawable/ic_text_box_styling.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Sai Ji/AndroidStudioProjects/CovidPersonalTracker/app/src/main/res/drawable/side_navigation_header.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Sai Ji/AndroidStudioProjects/CovidPersonalTracker/app/src/main/res/layout/activity_home.xml" value="0.264" />
         <entry key="..\:/Users/Sai Ji/AndroidStudioProjects/CovidPersonalTracker/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/Sai Ji/AndroidStudioProjects/CovidPersonalTracker/app/src/main/res/layout/activity_spash_screen.xml" value="0.1" />
         <entry key="..\:/Users/Sai Ji/AndroidStudioProjects/CovidPersonalTracker/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/Sai Ji/AndroidStudioProjects/CovidPersonalTracker/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Sai Ji/AndroidStudioProjects/CovidPersonalTracker/app/src/main/res/layout/fragment_nearby.xml" value="0.25" />
+        <entry key="..\:/Users/Sai Ji/AndroidStudioProjects/CovidPersonalTracker/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Sai Ji/AndroidStudioProjects/CovidPersonalTracker/app/src/main/res/layout/night_mode_layout.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/Sai Ji/AndroidStudioProjects/CovidPersonalTracker/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Sai Ji/AndroidStudioProjects/CovidPersonalTracker/app/src/main/res/menu/side_nav_menu.xml" value="0.25" />
         <entry key="..\:/Users/Sai Ji/AndroidStudioProjects/CovidPersonalTracker/app/src/main/res/xml/activity_splash_screen_scene.xml" value="0.15081521739130435" />
       </map>
     </option>

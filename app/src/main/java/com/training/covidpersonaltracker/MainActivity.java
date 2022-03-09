@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(binding.getRoot());
 
         binding.button.setOnClickListener(v -> {
-            Intent i = new Intent(MainActivity.this, SpashScreen.class);
+            Intent i = new Intent(MainActivity.this, HomeActivity.class);
             startActivity(i);
             finish();
         });
