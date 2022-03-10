@@ -22,6 +22,7 @@
     </item>
 
     <item xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/nav_side_menu_night_mode"
         android:actionLayout="@layout/night_mode_layout"
         android:icon="@drawable/ic_baseline_brightness_4_24"
         android:title="Night Mode"

@@ -47,6 +47,7 @@
     </LinearLayout>
 
     <com.google.android.material.navigation.NavigationView
+        android:id="@+id/side_navigation_view"
         android:layout_width="wrap_content"
         app:headerLayout="@layout/side_navigation_header_layout"
         android:layout_height="match_parent"
